@@ -51,3 +51,11 @@ Fixed Gearbox!
 Gearbox almost there!
 
 ![](</updatelogs/images/082024/08212024 - 2.png>)
+
+Bolts added!
+
+![](</updatelogs/images/082024/08212024 - 3.png>)
+
+Top and bottom gears no longer sticking out!
+
+![](</updatelogs/images/082024/08212024 - 4.png>)
