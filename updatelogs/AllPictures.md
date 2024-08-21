@@ -39,3 +39,15 @@ The Center Plan!:
 the vision
 
 ![](</updatelogs/images/082024/08202024 - 9.png>)
+
+---
+
+8-21-2024
+
+Fixed Gearbox!
+
+![](</updatelogs/images/082024/08212024 - 1.png>)
+
+Gearbox almost there!
+
+![](</updatelogs/images/082024/08212024 - 2.png>)
