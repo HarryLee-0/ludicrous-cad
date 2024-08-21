@@ -23,3 +23,19 @@ Bumpers!:
 Joke Name Added:
 
 ![](</updatelogs/images/082024/08202024 - 5.png>)
+
+The Center Plan!:
+
+![](</updatelogs/images/082024/08202024 - 6.png>)
+
+???
+
+![](</updatelogs/images/082024/08202024 - 7.png>)
+
+???
+
+![](</updatelogs/images/082024/08202024 - 8.png>)
+
+the vision
+
+![](</updatelogs/images/082024/08202024 - 9.png>)
