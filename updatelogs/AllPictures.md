@@ -36,7 +36,7 @@ The Center Plan!:
 
 ![](</updatelogs/images/082024/08202024 - 8.png>)
 
-the vision
+the vision!:
 
 ![](</updatelogs/images/082024/08202024 - 9.png>)
 
@@ -44,19 +44,19 @@ the vision
 
 8-21-2024
 
-Fixed Gearbox!
+Fixed Gearbox!:
 
 ![](</updatelogs/images/082024/08212024 - 1.png>)
 
-Gearbox almost there!
+Gearbox almost there!:
 
 ![](</updatelogs/images/082024/08212024 - 2.png>)
 
-Bolts added!
+Bolts added!:
 
 ![](</updatelogs/images/082024/08212024 - 3.png>)
 
-Top and bottom gears no longer sticking out!
+Top and bottom gears no longer sticking out!:
 
 ![](</updatelogs/images/082024/08212024 - 4.png>)
 
@@ -67,3 +67,7 @@ Top and bottom gears no longer sticking out!
 A properly spaced arm attached to the gearbox!:
 
 ![](</updatelogs/images/082024/08212024 - 6.png>)
+
+Seperator thingies added!:
+
+![](</updatelogs/images/082024/08212024 - 7.png>)
