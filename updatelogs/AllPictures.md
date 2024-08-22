@@ -42,7 +42,7 @@ the vision!:
 
 ---
 
-8-21-2024
+08-21-2024
 
 Fixed Gearbox!:
 
@@ -71,3 +71,8 @@ A properly spaced arm attached to the gearbox!:
 Seperator thingies added!:
 
 ![](</updatelogs/images/082024/08212024 - 7.png>)
+
+---
+
+08-22-2024
+
