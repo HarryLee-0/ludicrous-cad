@@ -59,3 +59,11 @@ Bolts added!
 Top and bottom gears no longer sticking out!
 
 ![](</updatelogs/images/082024/08212024 - 4.png>)
+
+???
+
+![](</updatelogs/images/082024/08212024 - 5.png>)
+
+A properly spaced arm attached to the gearbox!:
+
+![](</updatelogs/images/082024/08212024 - 6.png>)
