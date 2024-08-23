@@ -95,3 +95,19 @@ Top and Bottom Gearboxes!:
 More compact!:
 
 ![](</updatelogs/images/082024/08222024 - 5.png>)
+
+---
+
+08-23-2024
+
+Best position to place box tubing thinking:
+
+![](</updatelogs/images/082024/08232024 - 1.png>)
+
+Some Desmos math!:
+
+![](</updatelogs/images/082024/08232024 - 2.png>)
+
+Gearplate edited!:
+
+![](</updatelogs/images/082024/08232024 - 3.png>)
