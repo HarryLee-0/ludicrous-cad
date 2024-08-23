@@ -76,3 +76,14 @@ Seperator thingies added!:
 
 08-22-2024
 
+Left Right gearbox!:
+
+![](</updatelogs/images/082024/08222024 - 1.png>)
+
+Perfectly centered!:
+
+![](</updatelogs/images/082024/08222024 - 2.png>)
+
+First rough concept!:
+
+![](</updatelogs/images/082024/08222024 - 3.png>)
