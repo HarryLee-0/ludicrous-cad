@@ -111,3 +111,11 @@ Some Desmos math!:
 Gearplate edited!:
 
 ![](</updatelogs/images/082024/08232024 - 3.png>)
+
+Top finished!
+
+![](</updatelogs/images/082024/08232024 - 4.png>)
+
+Top and Bottom finished!
+
+![](</updatelogs/images/082024/08232024 - 5.png>)
