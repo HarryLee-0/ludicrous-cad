@@ -87,3 +87,11 @@ Perfectly centered!:
 First rough concept!:
 
 ![](</updatelogs/images/082024/08222024 - 3.png>)
+
+Top and Bottom Gearboxes!:
+
+![](</updatelogs/images/082024/08222024 - 4.png>)
+
+More compact!:
+
+![](</updatelogs/images/082024/08222024 - 5.png>)
