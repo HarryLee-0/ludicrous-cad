@@ -127,3 +127,7 @@ Starting work on new gearbox!:
 Pocketing!:
 
 ![](</updatelogs/images/082024/08232024 - 7.png>)
+
+Mostly finished assembly!
+
+![](</updatelogs/images/082024/08232024 - 8.png>)
