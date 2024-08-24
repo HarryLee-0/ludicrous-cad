@@ -119,3 +119,7 @@ Top finished!
 Top and Bottom finished!
 
 ![](</updatelogs/images/082024/08232024 - 5.png>)
+
+Starting work on new gearbox!:
+
+![](</updatelogs/images/082024/08232024 - 6.png>)
