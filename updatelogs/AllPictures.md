@@ -123,3 +123,7 @@ Top and Bottom finished!
 Starting work on new gearbox!:
 
 ![](</updatelogs/images/082024/08232024 - 6.png>)
+
+Pocketing!:
+
+![](</updatelogs/images/082024/08232024 - 7.png>)
