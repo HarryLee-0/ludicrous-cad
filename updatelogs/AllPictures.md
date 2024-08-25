@@ -143,3 +143,23 @@ Some seperators!:
 Preparing to attach the second leg segment!:
 
 ![](</updatelogs/images/082024/08242024 - 2.png>)
+
+Right/Inverted gearbox!:
+
+![](</updatelogs/images/082024/08242024 - 3.png>)
+
+???
+
+![](</updatelogs/images/082024/08242024 - 4.png>)
+
+It's looking pretty good!:
+
+![](</updatelogs/images/082024/08242024 - 5.png>)
+
+A bracket!
+
+![](</updatelogs/images/082024/08242024 - 6.png>)
+
+Bolts and stuff!
+
+![](</updatelogs/images/082024/08242024 - 7.png>)
