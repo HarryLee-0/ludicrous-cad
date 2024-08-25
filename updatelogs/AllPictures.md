@@ -171,3 +171,15 @@ What we have so far!:
 Joint 2 gearbox!:
 
 ![](</updatelogs/images/082024/08242024 - 9.png>)
+
+---
+
+08-25-2024
+
+uh:
+
+![](</updatelogs/images/082024/08252024 - 1.png>)
+
+Third gearbox!:
+
+![](</updatelogs/images/082024/08252024 - 2.png>)
