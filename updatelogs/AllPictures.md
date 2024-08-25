@@ -131,3 +131,15 @@ Pocketing!:
 Mostly finished assembly!
 
 ![](</updatelogs/images/082024/08232024 - 8.png>)
+
+---
+
+08-24-2024
+
+Some seperators!:
+
+![](</updatelogs/images/082024/08242024 - 1.png>)
+
+Preparing to attach the second leg segment!:
+
+![](</updatelogs/images/082024/08242024 - 2.png>)
