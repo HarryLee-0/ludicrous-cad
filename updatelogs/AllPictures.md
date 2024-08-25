@@ -156,10 +156,18 @@ It's looking pretty good!:
 
 ![](</updatelogs/images/082024/08242024 - 5.png>)
 
-A bracket!
+A bracket!:
 
 ![](</updatelogs/images/082024/08242024 - 6.png>)
 
-Bolts and stuff!
+Bolts and stuff!:
 
 ![](</updatelogs/images/082024/08242024 - 7.png>)
+
+What we have so far!:
+
+![](</updatelogs/images/082024/08242024 - 8.png>)
+
+Joint 2 gearbox!:
+
+![](</updatelogs/images/082024/08242024 - 9.png>)
