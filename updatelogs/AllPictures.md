@@ -183,3 +183,11 @@ uh:
 Third gearbox!:
 
 ![](</updatelogs/images/082024/08252024 - 2.png>)
+
+Leg segment 3 connected?:
+
+![](</updatelogs/images/082024/08252024 - 3.png>)
+
+Start drive train as the foot!:
+![](</updatelogs/images/082024/08252024 - 4.png>)
+
