@@ -189,5 +189,17 @@ Leg segment 3 connected?:
 ![](</updatelogs/images/082024/08252024 - 3.png>)
 
 Start drive train as the foot!:
+
 ![](</updatelogs/images/082024/08252024 - 4.png>)
 
+Working on swerve drive foot!:
+
+![](</updatelogs/images/082024/08252024 - 5.png>)
+
+Connected the swerve drive to leg segment 3!:
+
+![](</updatelogs/images/082024/08252024 - 6.png>)
+
+oops:
+
+![](</updatelogs/images/082024/08252024 - 7.png>)
