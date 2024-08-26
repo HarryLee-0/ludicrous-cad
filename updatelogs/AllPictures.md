@@ -203,3 +203,19 @@ Connected the swerve drive to leg segment 3!:
 oops:
 
 ![](</updatelogs/images/082024/08252024 - 7.png>)
+
+Assembled a leg!:
+
+![](</updatelogs/images/082024/08252024 - 8.png>)
+
+All six legs connected!:
+
+![](</updatelogs/images/082024/08252024 - 9.png>)
+
+oops:
+
+![](</updatelogs/images/082024/08252024 - 10.png>)
+
+Some robot stats!:
+
+![](</updatelogs/images/082024/08252024 - 11.png>)
