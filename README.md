@@ -23,4 +23,4 @@ Real-life Applications:
 
 Note: Unfortunately, the .STL file of the CAD is 1.17 GB large on Coarse resolution, and thats twice GitHub's recommended max file size, so I can't really upload it... However, there is a .STEP and .X_T file, and here's a link to the OnShape document:
 
-https://cad.onshape.com/documents/c1e6c73dbdbfebe73ee50afe/w/20b7c233459497b7e5b7579d/e/3d25d729a2ba833aa8db3e45
+https://cad.onshape.com/documents/99e87561ea6dabfc3b68d2fb/w/f559f8d09a86632a3e41e6b1/e/b98794b3c58d99e7778ceed9
